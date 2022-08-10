@@ -1,4 +1,4 @@
-# cobb24f7b847ccf108c35401e
+# Scrimba Class on javasript - Favourite Emojis
 
 Quick start:
 
